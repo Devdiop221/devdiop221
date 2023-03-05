@@ -53,16 +53,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/dev-diop221/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-diop221&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/devdiop221/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devdiop221&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/dev-diop221/github-readme-stats"><img alt="Mouhamed Diop's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dev-diop221&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/dev-diop221/github-readme-stats"><img alt="Mouhamed Diop's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-diop221&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/devdiop221/github-readme-stats"><img alt="Mouhamed Diop's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devdiop221&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/devdiop221/github-readme-stats"><img alt="Mouhamed Diop's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdiop221&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -70,7 +70,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/dev-diop221/github-readme-activity-graph"><img alt="Mouhamed Diop's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-diop221&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/devdiop221/github-readme-activity-graph"><img alt="Mouhamed Diop's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devdiop221&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -87,8 +87,8 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=dev-diop221">
+    <img src="https://komarev.com/ghpvc/?username=devdiop221">
 </a>
-<a href="https://github.com/dev-diop221?tab=followers"><img src="https://img.shields.io/github/followers/dev-diop221?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/devdiop221?tab=followers"><img src="https://img.shields.io/github/followers/devdiop221?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://app.daily.dev/Devdiop221"><img src="https://api.daily.dev/devcards/5c62379607504499ad1c15aaf847461f.png?r=wii" width="400" alt="Mouhamed Diop's Dev Card"/></a>
 
