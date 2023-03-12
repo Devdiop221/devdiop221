@@ -80,7 +80,7 @@
 
 <a href = "https://www.linkedin.com/in/mouhamed-diop-3409101ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Devdiop221"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/dev_diop221/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/devdiop221/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
