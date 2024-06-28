@@ -73,7 +73,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/devdiop221/github-readme-activity-graph"><img alt="Mouhamed Diop's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devdiop221&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -88,10 +87,6 @@
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=devdiop221">
-</a>
 <a href="https://github.com/devdiop221?tab=followers"><img src="https://img.shields.io/github/followers/devdiop221?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://app.daily.dev/Devdiop221"><img src="https://api.daily.dev/devcards/5c62379607504499ad1c15aaf847461f.png?r=wii" width="400" alt="Mouhamed Diop's Dev Card"/></a>
 
