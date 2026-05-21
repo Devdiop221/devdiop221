@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[(https://devdiop.online)](https://devdiop.online)/**
+- 👨‍💻 All of my projects are available at **[https://devdiop.online](https://devdiop.online)**
 
 - 📫 How to reach me **devdiop221@gmail.com**
 
