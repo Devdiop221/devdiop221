@@ -1,92 +1,85 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div align="center">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Devdiop</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Senegal.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Mouhamed%20Diop&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Senegal&descAlignY=55&descSize=18" width="100%"/>
 
+<a href="https://devdiop.online" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-devdiop.online-2E3192?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:devdiop221@gmail.com">
+  <img src="https://img.shields.io/badge/Email-devdiop221%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mouhamed-diop-3409101ba/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/Devdiop221" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@Devdiop221-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+</div>
+
+<br>
 
 ## 🙋‍♂️ About Me
 
+```txt
+const devdiop = {
+    location: "Dakar, Senegal 🇸🇳",
+    role: "Full Stack Developer",
+    currentlyLearning: ["Mobile Development", "Machine Learning", "Data Science"],
+    lookingToCollaborate: "OpenSource Projects",
+    funFact: "I play video games and watch anime/manga 🎮"
+};
+```
 
-- 🌱 I’m currently learning **Mobil Development, Machine Learning and Data Science.**
+- 📫 Reach me at: **[devdiop221@gmail.com](mailto:devdiop221@gmail.com)**
+- 🌐 All my projects: **[devdiop.online](https://devdiop.online)**
+- 👯 Open to collaborating on **OpenSource projects**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<br>
 
-- 👨‍💻 All of my projects are available at **[https://devdiop.online](https://devdiop.online)**
+## 🚀 Tech Stack
 
-- 📫 How to reach me **devdiop221@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **I play games and watch animes or mangas.**
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,python,php,nodejs,mysql,mongodb,firebase,git,laravel,django,vscode,idea,pycharm,webstorm&perline=9" />
 
-## 🚀 Languages
+</div>
 
-<p align="center">
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a>
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/></a>
-    <br>
+<br>
 
-</p>
+## 📊 GitHub Stats
 
-## 🚀 Tools
-<p align="center">
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
-    <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
-    <a href="https://www.jetbrains.com/fr-fr/webstorm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webstorm.png"/></a>
-    
+<div align="center">
 
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=devdiop221&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdiop221&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
+<br>
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdiop221&theme=tokyonight&hide_border=true" />
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<br>
 
-<p align="center">
-    <a href="https://github.com/devdiop221/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devdiop221&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=devdiop221&theme=tokyonight&no-frame=true&row=1&column=7" />
 
-## 📊 My Github Stats
+</div>
 
-  <br/>
-    <a href="https://github.com/devdiop221/github-readme-stats"><img alt="Mouhamed Diop's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devdiop221&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/devdiop221/github-readme-stats"><img alt="Mouhamed Diop's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdiop221&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+> **Note:** Top Languages only reflects my public code and doesn't represent my actual skill level.
 
+<br>
 
-<br/>
-<br/>
+## 🌐 Connect with me
 
+<div align="center">
 
-<br/>
-<br/>
+<a href="https://www.linkedin.com/in/mouhamed-diop-3409101ba/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/Devdiop221" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://www.instagram.com/devdiop221/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-## Connect with me:
-<p align="left">
+<br><br>
 
-<a href = "https://www.linkedin.com/in/mouhamed-diop-3409101ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Devdiop221"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/devdiop221/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<img src="https://img.shields.io/github/followers/devdiop221?label=Followers&style=social" alt="GitHub Badge">
 
+</div>
 
-</p>
-
-<a href="https://github.com/devdiop221?tab=followers"><img src="https://img.shields.io/github/followers/devdiop221?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://app.daily.dev/Devdiop221"><img src="https://api.daily.dev/devcards/5c62379607504499ad1c15aaf847461f.png?r=wii" width="400" alt="Mouhamed Diop's Dev Card"/></a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=100&section=footer" width="100%"/>
